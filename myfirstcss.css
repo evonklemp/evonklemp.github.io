@@ -1,0 +1,33 @@
+body {
+    background-color: #E8FAEA;
+}
+h1 {
+    background-color: #E8FAEA;
+    color: #04150d;
+    padding: 20px;
+    font-size: 1em;
+    font-family: 'Verdana', sans-serif;
+    border: 3px solid #0a100d;
+    border-radius: 10px;
+    overflow: scroll;
+}
+header{
+    width: 80%;
+    margin: auto;
+    background-color: mint-cream;
+}
+.Image{
+    width: 8-p-px;
+    height: 8-p-px;
+}
+div {
+    width: 30%;
+    background-color: mint-cream;
+}
+.nav {
+    background-color: #fff;
+}
+#footer {
+    width: 100px;
+    background-color: rgb(255, 255, 255) ;
+}
